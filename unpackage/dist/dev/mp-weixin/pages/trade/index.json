@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "市场交易所",
+  "usingComponents": {
+    "trade-tab": "./components/TradeTab",
+    "search": "../../common/compoments/search",
+    "tab": "../../common/compoments/tab",
+    "show-list": "../../common/compoments/ShowList"
+  }
+}

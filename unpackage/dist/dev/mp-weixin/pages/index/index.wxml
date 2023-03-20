@@ -1,0 +1,1 @@
+<view class="container data-v-1cf27b2a"><image src="/static/FCbg1.png" alt="" class="bg data-v-1cf27b2a" mode="widthFix"></image><view class="bank data-v-1cf27b2a" bindtap="{{a}}"></view><view class="trade data-v-1cf27b2a" bindtap="{{b}}"></view></view>

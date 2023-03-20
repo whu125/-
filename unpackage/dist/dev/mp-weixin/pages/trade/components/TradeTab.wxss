@@ -1,0 +1,33 @@
+/* 水平间距 */
+/* 水平间距 */
+.title.data-v-ad739ea6 {
+  flex-shrink: 0;
+  display: flex;
+  justify-content: space-between;
+  height: 100rpx;
+  background-color: #6c74b1;
+  box-sizing: border-box;
+}
+.title .titleTab.data-v-ad739ea6 {
+  display: flex;
+  padding-left: 60rpx;
+}
+.title .titleContain.data-v-ad739ea6 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 230rpx;
+}
+.title .titleContain .text.data-v-ad739ea6 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 50rpx;
+  letter-spacing: 30rpx;
+  text-indent: 30rpx;
+  color: white;
+}
+.active.data-v-ad739ea6 {
+  border-bottom: 5px solid #8cd5fa;
+}

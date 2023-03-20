@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "市场交易所",
+  "usingComponents": {
+    "g-slider": "../../uni_modules/g-slider/components/g-slider/g-slider",
+    "trade-tab": "./components/TradeTab",
+    "search": "../../common/compoments/search",
+    "tab": "../../common/compoments/tab",
+    "show-list": "../../common/compoments/ShowList"
+  }
+}

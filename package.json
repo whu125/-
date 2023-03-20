@@ -1,0 +1,10 @@
+{
+	"dependencies": {
+		"axios": "0.27.2",
+		"pinia": "^2.0.33",
+		"scss": "^0.2.4",
+		"uni-read-pages": "^1.0.5",
+		"uni-simple-router": "^2.0.8-beta.4",
+		"uniapp-axios-adapter": "^0.3.2"
+	}
+}

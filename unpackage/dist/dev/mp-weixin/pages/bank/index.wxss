@@ -1,0 +1,55 @@
+/* 水平间距 */
+/* 水平间距 */
+.container.data-v-dc3afe3c {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  height: 100%;
+  background: #615d9f;
+  box-sizing: border-box;
+}
+.container .new-search.data-v-dc3afe3c {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.container .myTreasure.data-v-dc3afe3c {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70rpx;
+  width: 200rpx;
+  border-width: 5px 5px 5px 5px;
+  border-style: solid;
+  border-color: #8cd5fa;
+  border-radius: 10px;
+  background: linear-gradient(180deg, #2e2685 0%, rgba(46, 38, 133, 0.75) 100%);
+}
+.container .bankList.data-v-dc3afe3c {
+  width: 90%;
+  margin: 0 auto;
+  justify-content: space-between;
+  display: flex;
+  flex-wrap: wrap;
+  flex-grow: 1;
+  overflow: scroll;
+}
+.container .bankList .bank.data-v-dc3afe3c {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-shrink: 0;
+  margin-bottom: 20rpx;
+  width: 320rpx;
+  height: 350rpx;
+  border-radius: 15px 15px 0px 0px;
+  border: 2px solid #8cd5fa;
+}
+.container .bankList .bankImg.data-v-dc3afe3c {
+  width: 250rpx;
+  height: 250rpx;
+  margin: 10rpx auto;
+  background-color: pink;
+  border-radius: 30rpx;
+}

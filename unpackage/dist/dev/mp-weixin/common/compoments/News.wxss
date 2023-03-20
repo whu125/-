@@ -1,0 +1,10 @@
+/* 水平间距 */
+/* 水平间距 */
+.news.data-v-99995656 {
+  width: 90%;
+  margin: 80rpx auto 0;
+  height: 200rpx;
+  border-radius: 5px;
+  border: dashed skyblue;
+  background: rgba(140, 213, 250, 0.5);
+}

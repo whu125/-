@@ -1,0 +1,27 @@
+/* 水平间距 */
+/* 水平间距 */
+.tabContainer.data-v-2adcc03a {
+  display: flex;
+  padding: 0 30rpx;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.tabContainer .smallTab.data-v-2adcc03a {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200rpx;
+  height: 60rpx;
+  border-radius: 30rpx;
+  background: rgba(46, 38, 133, 0.75);
+  border: 3px solid #8cd5fa;
+}
+.tabContainer .sortStyle.data-v-2adcc03a {
+  display: flex;
+  width: 200rpx;
+  height: 60rpx;
+  font-size: 40rpx;
+  color: white;
+}

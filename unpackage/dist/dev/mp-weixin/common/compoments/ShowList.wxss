@@ -1,0 +1,37 @@
+/* 水平间距 */
+/* 水平间距 */
+.list.data-v-32bc9ce6 {
+  position: relative;
+  width: 90%;
+  margin: 10px auto;
+  height: 200rpx;
+  background: linear-gradient(90deg, rgba(214, 241, 255, 0.75) 0%, rgba(209, 222, 230, 0.36) 51.62%, rgba(204, 204, 204, 0) 100%);
+  border-width: 0px 3px 0px 5px;
+  border-style: solid;
+  border-color: rgba(214, 241, 255, 0.75);
+  padding-left: 40rpx;
+  padding-top: 20rpx;
+}
+.list .stockName.data-v-32bc9ce6 {
+  font-size: 60rpx;
+}
+.list .icons.data-v-32bc9ce6 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  top: 20rpx;
+  right: 45rpx;
+  width: 200rpx;
+  height: 80rpx;
+}
+.list .icons .iconImg.data-v-32bc9ce6 {
+  position: absolute;
+  right: -20rpx;
+  width: 80rpx;
+  height: 80rpx;
+}
+.list .icons .downText.data-v-32bc9ce6 {
+  margin: 0 10rpx;
+  font-size: 50rpx;
+  color: #43cf7c;
+}

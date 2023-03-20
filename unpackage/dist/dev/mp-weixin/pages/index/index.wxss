@@ -1,0 +1,25 @@
+/* 水平间距 */
+/* 水平间距 */
+.container.data-v-1cf27b2a {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+.container .bg.data-v-1cf27b2a {
+  width: 100%;
+  vertical-align: bottom;
+}
+.container .trade.data-v-1cf27b2a {
+  position: absolute;
+  height: 300rpx;
+  width: 150rpx;
+  top: 600rpx;
+  right: 150rpx;
+}
+.container .bank.data-v-1cf27b2a {
+  position: absolute;
+  height: 300rpx;
+  width: 150rpx;
+  top: 880rpx;
+  left: 350rpx;
+}
